@@ -1,4 +1,4 @@
-# jogo-da-cobrinha
+# slytherin-snake-game
 Projeto inicial da Digital Innovation One.
 
 Minhas alterações: 
